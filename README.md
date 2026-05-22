@@ -5,8 +5,8 @@ Full-Stack Software Engineer | Systems & Security | Trilingual (EN/ES/IT)
 Building: programming languages, security platforms, and backend infrastructure.
 
 ## Current Projects
-- [Achlys](link) — Custom programming language and runtime built in C / Bootstrapped
-- [HackLingo](link) — AI-assisted infosec learning platform
+- [Achlys](https://github.com/Variosity/-Achlys) — Custom programming language and runtime built in C / Bootstrapped
+- [HackLingo](https://github.com/Variosity/hacklingo) — AI-assisted infosec learning platform
 
 ## Stack
 TypeScript · Node.js · Python · C · PostgreSQL · Linux
