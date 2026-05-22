@@ -1,16 +1,17 @@
-## Hi there 👋
+# Miguel Esteves
 
-<!--
-**Variosity/Variosity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Engineer | Systems & Security | Trilingual (EN/ES/IT)
 
-Here are some ideas to get you started:
+Building: programming languages, security platforms, and backend infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Achlys](link) — Custom programming language and runtime built in C / Bootstrapped
+- [HackLingo](link) — AI-assisted infosec learning platform
+
+## Stack
+TypeScript · Node.js · Python · C · PostgreSQL · Linux
+
+## Open to
+Remote roles | Global/EU companies | Contract engagements
+
+[Portfolio](https://alejandriosity.vercel.app) · [Email](mailto:alejandriosity@gmail.com)
