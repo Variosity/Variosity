@@ -6,7 +6,7 @@ Building: programming languages, security platforms, and backend infrastructure.
 
 ## Current Projects
 - [Achlys](https://github.com/Variosity/-Achlys) — Custom programming language and runtime built in C / Bootstrapped
-- [HackLingo](https://github.com/Variosity/hacklingo) — AI-assisted infosec learning platform
+- [Hacklingo](https://github.com/Variosity/hacklingo) — AI-assisted infosec learning platform
 
 ## Stack
 TypeScript · Node.js · Python · C · PostgreSQL · Linux
