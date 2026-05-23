@@ -9,7 +9,7 @@ Building: programming languages, security platforms, and backend infrastructure.
 - [Hacklingo](https://github.com/Variosity/hacklingo) — AI-assisted infosec learning platform
 
 ## Stack
-TypeScript · Node.js · Python · C · PostgreSQL · Linux
+TypeScript · Node.js · Go · C · PostgreSQL · Linux
 
 ## Open to
 Remote roles | Global/EU companies | Contract engagements
