@@ -1,6 +1,6 @@
 # Miguel Esteves
 
-Back-End Software Engineer | Systems & Security | Trilingual (EN/ES/IT)
+Full-Stack Software Engineer | Systems & Security | Trilingual (EN/ES/IT)
 
 Building: programming languages, security platforms, and backend infrastructure.
 
@@ -9,7 +9,7 @@ Building: programming languages, security platforms, and backend infrastructure.
 - [Hacklingo](https://github.com/Variosity/hacklingo) — AI-assisted infosec learning platform
 
 ## Stack
-Git/Github · Docker · Flask/Django · Golang · Python · PostgreSQL · Linux
+Git/Github · Docker · Express · TypeScript · Node · PostgreSQL · Linux
 
 ## Open to
 Remote roles | Global/EU companies | Contract engagements
