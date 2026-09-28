@@ -9,7 +9,7 @@ Building: programming languages, security platforms, and backend infrastructure.
 - [Hacklingo](https://github.com/Variosity/hacklingo) — AI-assisted infosec learning platform
 
 ## Stack
-Git/Github · Docker · FastAPI · Python · Go · PostgreSQL · Linux
+Git/Github · Docker · Django · Python · Go · PostgreSQL · Linux
 
 ## Open to
 Remote roles | Global/EU companies | Contract engagements
