@@ -61,7 +61,7 @@
 
 <br />
 
-<img src="./assets/sec-descent.svg" alt="The Descent — contribution activity" width="100%" />
+<img src="./assets/sec-descent.svg" alt="The Registry — contribution activity" width="100%" />
 
 <br />
 
@@ -69,7 +69,7 @@
 
 <br /><br />
 
-<img src="./assets/sec-rite.svg" alt="The Rite — open to remote roles, global and EU companies, and contract work" width="100%" />
+<img src="./assets/sec-rite.svg" alt="Contact — open to remote roles, global and EU companies, and contract work" width="100%" />
 
 <br />
 
